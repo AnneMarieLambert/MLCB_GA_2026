@@ -8,3 +8,6 @@ Mensagem: 'Gostaria de cancelar meu cartão de crédito' ==> Intenção Predita:
  3 - Ele é o algoritmo de inteligência artificial responsável por aprender a tomar as decisões.
  O LogisticRegression atua como o classificador que aprende a associar as palavras vetorizadas às suas respectivas intenções (fit).
  Ele calcula pesos matemáticos para cada termo e, por fim, prevê a categoria mais provável para novas mensagens enviadas (predict).
+
+
+ 
