@@ -10,6 +10,8 @@ Mensagem: 'Gostaria de cancelar meu cartão de crédito' ==> Intenção Predita:
  Ele calcula pesos matemáticos para cada termo e, por fim, prevê a categoria mais provável para novas mensagens enviadas (predict).
 
 
+
+
  --- RESULTADOS DO LAB 02 ---
 Mensagem de Teste: 'Gostaria de devolver o produto que comprei'
 Intenção Predita: troca_devolucao
@@ -22,6 +24,20 @@ Classe [troca_devolucao]: 47.46%
 1- Sim, estão 100% corretos baseados nas frases.
 2- Não há erros, mas podemos melhorar nosso código para maior eficiência aumentando a base de dados.
 3- Calcula a frequência com que cada palavra aparece durante o treino. Ele multiplica as probabilidades individuais de cada termo de forma independente e gera uma distribuição percentual, classificando o texto na intenção de maior probabilidade.
+
+
+ --- RESULTADOS DO LAB 03 ---
+
+ Acurácia do Modelo: 33.33%
+
+
+1- O resultado foi: 33.33% e isso pode ser enganoso pois acertar poucas frases de teste não garante que o modelo aprendeu variações reais e cada único acerto ou erro altera o resultado final.
+2- Ela toma a decisão através de regras lógicas de "sim ou não" com base nas palavras.
+3- O risco é o Overfitting, pois a árvore decora os testes aprendendo um padrão específico e com novas frases terá falhas recorrentes.
+ 
+
+
+
 
 
 
