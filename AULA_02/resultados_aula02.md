@@ -10,4 +10,19 @@ Mensagem: 'Gostaria de cancelar meu cartão de crédito' ==> Intenção Predita:
  Ele calcula pesos matemáticos para cada termo e, por fim, prevê a categoria mais provável para novas mensagens enviadas (predict).
 
 
- 
+ --- RESULTADOS DO LAB 02 ---
+Mensagem de Teste: 'Gostaria de devolver o produto que comprei'
+Intenção Predita: troca_devolucao
+
+--- Distribuição de Probabilidades por Classe ---
+Classe [duvida_frete]: 27.99%
+Classe [rastrear_pedido]: 24.54%
+Classe [troca_devolucao]: 47.46%
+
+1- Sim, estão 100% corretos baseados nas frases.
+2- Não há erros, mas podemos melhorar nosso código para maior eficiência aumentando a base de dados.
+3- Calcula a frequência com que cada palavra aparece durante o treino. Ele multiplica as probabilidades individuais de cada termo de forma independente e gera uma distribuição percentual, classificando o texto na intenção de maior probabilidade.
+
+
+
+
