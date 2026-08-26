@@ -40,7 +40,16 @@ horario_atendimento       0.50      1.00      0.67         1
 
  F1-Score: Media harmônica do precision e recall tendo que dar bons resultados. É um indicador principal para decidir se a classe está madura ou não. 
 
-
  2- Considerando a diagonal principal os acertos e fora da diagonal os erros.
 
  3-  Pois ela reflete apenas o desempenho da classe majoritária. 
+
+
+LAB 03 - AULA 03 (MLCB): Scikit-Learn Pipeline (Modo TODO)
+
+
+1- 
+
+2- Automatiza e organiza todas as etapas do processo de machine learning, como o pré-processamento dos dados e o treinamento do modelo, em uma única estrutura.
+
+3- Garante que as mesmas etapas de pré-processamento sejam aplicadas de forma consistente aos dados de treino e de teste.
