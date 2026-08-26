@@ -47,6 +47,9 @@ horario_atendimento       0.50      1.00      0.67         1
 
 LAB 03 - AULA 03 (MLCB): Scikit-Learn Pipeline (Modo TODO)
 
+--------RESULTADO -----------
+Acuracia via Pipeline: 25.00%
+
 
 1- Inserido direto no código.
 
