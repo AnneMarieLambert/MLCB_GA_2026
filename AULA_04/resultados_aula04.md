@@ -1,6 +1,5 @@
-# ==============================================================================
-# ATIVIDADE 1: CHATBOT VERSÃO 1 (KNN)
-# ==============================================================================
+
+ATIVIDADE 1: CHATBOT VERSÃO 1 (KNN)
 
 === RELATÓRIO DE CLASSIFICAÇÃO ===
                     precision    recall  f1-score   support
@@ -68,7 +67,8 @@ Confiança muito baixa (33.33%).
 Fallback: Desculpe, não consegui compreender com clareza. Redirecionando para a equipe humana...
 
 
-atividade 2: Construção do Zero (Versão 2 — Decision Tree e 8 Testes Digitados)
+ATIVIDADE 2:  
+Construção do Zero (Versão 2 — Decision Tree e 8 Testes Digitados)
 
 === MATRIZ DE CONFUSÃO ===
 [[4 0 0 0 2]
