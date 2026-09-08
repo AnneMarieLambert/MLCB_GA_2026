@@ -34,4 +34,16 @@ Tokens finais:
 
 EXERCICIO 2:
 
+Dataset simulado carregado com sucesso.
+Treinando o modelo FastText...
+Modelo FastText treinado com sucesso!
+
+=== TESTE DE MEAN POOLING ===
+Frase original: 'MEU sofá!!! chegou quebrado e quero DEVOLVER!!!'
+Frase limpa:    'sofá chegar quebrar querer devolver'
+Formato do vetor gerado (Shape): (50,)
+Primeiros 5 valores do vetor:    [-0.00131294  0.00268017 -0.00125948 -0.00134992 -0.00097263]...
+
+Matriz final pronta para Classificação (X): Formato (5, 50)
+
 
