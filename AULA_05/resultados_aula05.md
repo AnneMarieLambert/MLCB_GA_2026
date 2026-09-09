@@ -85,4 +85,16 @@ Entrada: 'qual é a previsão do tempo?'
 Ação:   FALLBACK_HUMANO - Confiança máxima de 25.00% é menor que o limiar.
 
 
+EXERCICIO 4:
+
+=== TABELA COMPARATIVA DO LABORATÓRIO ===
+| Modelo              | Accuracy   | Precision   | Recall   | F1     |
+|:--------------------|:-----------|:------------|:---------|:-------|
+| Regressão Logística | 68.75%     | 66.25%      | 68.75%   | 65.97% |
+| KNN                 | 56.25%     | 45.00%      | 56.25%   | 49.37% |
+
+[RECOMENDAÇÃO TÉCNICA]: O algoritmo selecionado para o motor NLU deve ser a **Regressão Logística**, 
+com base na métrica F1-Score que pondera melhor o desbalanceamento das intenções de SAC em cenários reais.
+
+
 
