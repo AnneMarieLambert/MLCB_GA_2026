@@ -97,4 +97,24 @@ EXERCICIO 4:
 com base na métrica F1-Score que pondera melhor o desbalanceamento das intenções de SAC em cenários reais.
 
 
+Questão 1 - Qual modelo apresentou melhor desempenho?
+
+A Regressão Logística foi melhor. Ela acertou 68.75% de acurácia contra só 56.25% do KNN, se mostrando bem mais firme para entender as intenções das mensagens.
+
+Questão 2 - Por que os resultados podem ser diferentes mesmo utilizando os mesmos embeddings?
+
+Porque os dois pensam de um jeito completamente diferente. A Regressão Logística tenta olhar o cenário geral e traçar uma linha matemática para separar o que é cada intenção. Já o KNN não cria fórmula nenhuma, ele simplesmente olha quem são os vizinhos mais próximos e assume que a nova mensagem é igual a eles.
+
+Questão 3 - O KNN utiliza distância. Por que a qualidade dos embeddings é particularmente importante para esse algoritmo?
+
+O KNN depende 100% de mapa geométrico. Se o embedding juntar palavras que não têm nada a ver só porque parecem na escrita, o KNN vai se perder totalmente na conta e dar o palpite errado. Ele não tem como corrigir um mapa que já veio bagunçado.
+
+Questão 4 - Se o sistema tivesse 100 mil mensagens e centenas de intenções, você escolheria KNN? Justifique.
+
+Não, pois o KNN é aquele tipo "preguiçoso": ele não decora nada no treino. Toda vez que um cliente mandasse um "oi", o chatbot teria que calcular a distância dessa frase contra as 100 mil mensagens salvas na memória para achar os vizinhos. O sistema ia travar ou demorar uma eternidade para responder.
+
+Questão 5 - Qual modelo você escolheria para colocar em produção neste cenário?
+
+Regressão Logística. Além de ter sido bem mais precisa nos testes, a resposta para o cliente sai na hora com um custo de servidor quase zero.
+
 
