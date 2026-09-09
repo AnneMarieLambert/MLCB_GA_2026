@@ -46,4 +46,3 @@ Primeiros 5 valores do vetor:    [-0.00131294  0.00268017 -0.00125948 -0.0013499
 
 Matriz final pronta para Classificação (X): Formato (5, 50)
 
-
