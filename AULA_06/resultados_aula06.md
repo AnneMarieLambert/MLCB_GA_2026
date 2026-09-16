@@ -6,3 +6,9 @@ c<img width="1019" height="482" alt="image" src="https://github.com/user-attachm
 <img width="961" height="460" alt="image" src="https://github.com/user-attachments/assets/9f60d8a0-441d-4008-a79a-64121e6cbef3" />
 
 ----------------------------------------------------------------------------------------------------------------------------------
+
+# Resultado do LAB 01 — Árvore de Decisão
+<img width="1002" height="412" alt="image" src="https://github.com/user-attachments/assets/1849f371-405d-473e-8517-8efebb6d10b9" />
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
