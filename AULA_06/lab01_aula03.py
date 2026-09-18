@@ -1,4 +1,4 @@
-```python
+
 #LAB 01: Troca do Algoritmo de Classificação (ML)
 
 # Construção do modelo de aprendizado supervisionado com todos os aprendizados da aula 1 à 5 (preparatório para prova)
@@ -254,4 +254,3 @@ with gr.Blocks(theme=gr.themes.Soft(), title="SAC Imobiliário") as app:
 # Executar a aplicação
 app.launch(debug=True, share=True)
 #FIM DO CÓDIGO
-```
