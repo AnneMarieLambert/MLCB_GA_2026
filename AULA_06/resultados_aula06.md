@@ -11,4 +11,9 @@ c<img width="1019" height="482" alt="image" src="https://github.com/user-attachm
 <img width="1160" height="452" alt="image" src="https://github.com/user-attachments/assets/606e0d5b-ac2b-4bd1-923a-676d724c71ea" />
 
 -----------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------
 
+# Resultado LAB 02: Ajuste de Governança e Regra de Fallback Dinâmica
+<img width="1141" height="426" alt="image" src="https://github.com/user-attachments/assets/22d3cfe8-5c99-48f2-ad79-4602d4980ece" />
+
+-----------------------------------------------------------------------------------------------------------------------------------
