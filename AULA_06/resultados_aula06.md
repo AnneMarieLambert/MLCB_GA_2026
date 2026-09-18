@@ -8,7 +8,7 @@ c<img width="1019" height="482" alt="image" src="https://github.com/user-attachm
 ----------------------------------------------------------------------------------------------------------------------------------
 
 # Resultado do LAB 01 — Árvore de Decisão
-<img width="1002" height="412" alt="image" src="https://github.com/user-attachments/assets/1849f371-405d-473e-8517-8efebb6d10b9" />
+<img width="1160" height="452" alt="image" src="https://github.com/user-attachments/assets/606e0d5b-ac2b-4bd1-923a-676d724c71ea" />
 
 -----------------------------------------------------------------------------------------------------------------------------------
 
